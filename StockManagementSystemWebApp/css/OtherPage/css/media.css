@@ -1,0 +1,83 @@
+﻿@media (max-width: 767px) { 
+	body {
+}
+
+.top-part {
+    background-color: cornflowerblue;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 20px 0px;
+    margin: 10px 0px;
+}
+
+.dash {
+    border-bottom: 1px solid;
+    border-bottom-color: firebrick;
+    margin-bottom: 15px;
+}
+
+.comm-btn {
+    width: 100%;
+    padding: 50px 0px;
+    margin: 15px 0px;
+    font-size: 20px;
+    text-transform: uppercase;
+    border-left: 10px solid;
+    border-left-color: firebrick;
+    border-right: 10px solid firebrick;
+    border-radius: 10px;
+}
+
+
+
+.add-company h4 {
+    background-color: cornflowerblue;
+    padding: 10px 5px;
+    color: #fff;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.add-company-form{
+    border: 1px solid grey;
+    padding: 25px 25px 25px 25px;
+}
+
+.add-company-form label{
+
+    margin-right: 30px;
+}
+
+.add-company-form input{
+
+    margin-right: 11;
+    width: 240px !important;
+}
+
+.add-company-form button{
+
+    margin-left: 0px;
+}
+
+.company-list{
+    margin-top: 15px;
+}
+
+.company-list h4{
+    background-color: cornflowerblue;
+    padding: 10px 5px;
+    color: #fff;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+ }
+@media (min-width: 768px) and (max-width: 991px) { 
+	
+ }
+@media (min-width: 992px) and (max-width: 1199px) { 
+
+ }
+@media (min-width: 1200) { 
+
+ }
